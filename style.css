@@ -368,6 +368,10 @@ footer {
     margin-left: 0;
   }
 
+  header .container-fluids img:first-of-type {
+    width: 165%;
+  }
+
   .icon-image {
     width: 10%;
   }
@@ -491,11 +495,8 @@ footer {
     letter-spacing: 1px;
   }
   h2 {
-    font-size: 0.8rem;
-    letter-spacing: 0;
-  }
-  .locations h2 {
     font-size: 0.7rem;
+    letter-spacing: 0;
   }
   h3 {
     font-size: 0.8rem;
@@ -518,10 +519,6 @@ footer {
   .navbar-brand img {
     width: 100px;
     margin-left: 0;
-  }
-
-  header .container-fluids img:first-of-type {
-    width: 150%;
   }
 
   .par-beneath-icon {
