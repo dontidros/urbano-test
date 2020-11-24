@@ -517,6 +517,10 @@ footer {
     margin-left: 0;
   }
 
+  .par-beneath-icon {
+    width: 95%;
+  }
+
   footer {
     padding: 20px 20px 3px 20px;
     font-size: 12px;
