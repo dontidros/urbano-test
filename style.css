@@ -484,3 +484,52 @@ footer {
     font-size: 12px;
   }
 }
+
+@media (max-width: 470px) {
+  h1 {
+    font-size: 2em;
+    letter-spacing: 1px;
+  }
+  h2 {
+    font-size: 0.8rem;
+    letter-spacing: 0;
+  }
+  h3 {
+    font-size: 0.8rem;
+    letter-spacing: 0;
+  }
+
+  .white-space-top {
+    margin-top: 60px;
+  }
+
+  .white-space-bottom {
+    margin-bottom: 60px;
+  }
+
+  .know-more {
+    padding: 20px 0;
+    font-size: 14px;
+  }
+
+  .navbar-brand img {
+    width: 100px;
+    margin-left: 0;
+  }
+
+  footer {
+    padding: 20px 20px 3px 20px;
+    font-size: 12px;
+  }
+
+  .contact-container .logo img {
+    width: 120px;
+  }
+  .contact-container .contact-details i {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  .copyright {
+    font-size: 12px;
+  }
+}
