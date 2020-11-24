@@ -494,6 +494,9 @@ footer {
     font-size: 0.8rem;
     letter-spacing: 0;
   }
+  .locations h2 {
+    font-size: 0.7rem;
+  }
   h3 {
     font-size: 0.8rem;
     letter-spacing: 0;
@@ -515,6 +518,10 @@ footer {
   .navbar-brand img {
     width: 100px;
     margin-left: 0;
+  }
+
+  header .container-fluids img:first-of-type {
+    width: 150%;
   }
 
   .par-beneath-icon {
